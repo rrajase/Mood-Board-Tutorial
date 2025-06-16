@@ -1,5 +1,6 @@
 # Mood-Board-Tutorial
 Made in collaboration with Trevor Carson and Jadyn Iinuma
+
 For higher readability, download the notebook and open in Google Colab.
 
 Our tutorial is catered towards students who have a solid base of knowledge about basic CS principles, and who are eager to learn how to use tools that can be applied to creating software development or similar modes of design. Mood boards are a collection of images intended to evoke a specific emotion from the viewer. They usually contain similar objects or colors to create a cohesive emotional tone within the image collection. While our tutorial will center around the creation of a mood board, we hope that the skills and understanding of the APIs (Application Programming Interfaces) used in this tutorial can be extended to other areas of interest that users may have.
